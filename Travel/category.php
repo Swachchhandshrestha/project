@@ -57,13 +57,13 @@ mysqli_close($cn);
 <div style="width:800px; float:left">
 <table cellpadding="0px" cellspacing="0" width="1000px">
 <tr><td class="headingText">Welcome to My Tour</td></tr>
-<tr><td class="paraText" width="900px">Plan and Book Your Perfect Trip.Create your dream holiday.
+<tr><td class="paraText" width="250px">Plan and Book Your Perfect Trip.Create your dream holiday.
 what you like. Do what you love.
 What's New Explore new experiences, attractions, food and wine trends.
 What will you find during your visit to My Tour? Awe-inspiring natural beauty and the dramatic
  National Monument. Exhilarating outdoor adventures including
 hiking, camping or skiing . Hundreds of miles of world-class mountain biking trails. Incredible whitewater rafting on the River. 
-</td><td style="background-image:url(images/13.jpg); background-repeat:no-repeat; color:#FFF; font-family:Lucida Sans Unicode, Lucida Grande, sans-serif; font-size:24px; " width="700px" height="250px" ><div style="background:linear-gradient(#09F,#096,#09F); vertical-align:text-top; padding-left:5%;  width:100%;">HAVE A GOOD TIME &nbsp;&nbsp;&nbsp; without spending a dime</div	></td></tr></table>
+</td><td style="background-image:url(images/bhairab.jpg); background-repeat:no-repeat; color:#FFF; font-family:Lucida Sans Unicode, Lucida Grande, sans-serif; font-size:24px; " width="700px" height="250px" ><div style="background:linear-gradient(#09F,#096,#09F); vertical-align:text-top; padding-left:5%;  width:350px;">HAVE A GOOD TIME<br/> without spending a dime</div	></td></tr></table>
 
 </div>
 

@@ -24,10 +24,10 @@ Our Customer Service Department is always happy to answer any questions you migh
              
 			 </div>
 			 <div class="col-md-4 fotter-right" style="padding-left:70px">
-			 <h3>Why buy from us?</h3><br/>
+			 <h3>Travel</h3><br/>
               <div class="footer-list">
 			  <ul>
-              <li style="color:#FFF"><a href="#" style="color:#FFF"><span></span> </a></li>
+             
               <li style="color:#FFF"><a href="#" style="color:#FFF"><span></span> Travel Guide</a></li>
               <li style="color:#FFF"><a href="#" style="color:#FFF"><span></span> Social Responsibility</a></li>
                </ul> </div></div>
